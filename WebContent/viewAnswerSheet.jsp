@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Answer Sheet</title>
 </head>
 <body><form>
 <% Object obj=session.getAttribute(String.valueOf(session.getAttribute("sname"))+"_questions");
